@@ -4,10 +4,6 @@
     <title>Docs on Alpha_Project</title>
     <link>https://examplesite.com/docs/</link>
     <description>Recent content in Docs on Alpha_Project</description>
-    <image>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://examplesite.com/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
