@@ -17,7 +17,6 @@ params:
     description: "ExampleSite description"
     keywords: [Blog, Docs]
     author: Faraday
-    images: ["<link or path of image for opengraph, twitter-cards>"]
     DateFormat: "January 2, 2006"
     defaultTheme: dark
     disableThemeToggle: true
